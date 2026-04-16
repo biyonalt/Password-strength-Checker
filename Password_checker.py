@@ -27,3 +27,5 @@ elif strength == 3:
     print("Medium Password ⚠️")
 else:
     print("Weak Password ❌")
+    print("No uppercase letters")
+    print("Too short")
